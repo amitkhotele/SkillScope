@@ -1,4 +1,4 @@
-# 📊 Student Technical Skills Analyzer & PDF Report Generator
+# 📊SkillScope - Student Technical Skills Analyzer & PDF Report Generator
 
 This project analyzes technical skills of students based on a structured dataset and generates individual PDF reports that include:
 
