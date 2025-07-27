@@ -1,0 +1,21 @@
+Timestamp,Username,Name:-,Email ID:-,Phone No.:-,SSC % :-,HSC or diploma % :-,Average  % of BTech till 6th Sem,Mention programming languages you have expertise in:-,Mention your career(Technical)  domain:-,If you have portfolio then provide the link :-,If you have github account then provide the link :-,If you have linkedin account then provide the link :-,If you have competitive programming account at any platform then provide the link :-,"Mention the projects you have made in list like
+Project1 :- name
+Description of project 1:- what, how, and why and tech stack
+Project 2 :- name
+Description:-......so on
+", Upload your Resume:-,"Any industry level certification or achievements, then kindly mention:-"
+2025/07/25 9:03:50 PM GMT+5:30,akcodx@gmail.com,Amit Khotele,akcodx@gmail.com,9673567147,88.2,73.17,88.11,"Python, C, SQL","Data Science, Web Development, ",https://amitkhotele.netlify.app/,https://github.com/amitkhotele,https://in.linkedin.com/in/amitkhotele,https://www.geeksforgeeks.org/user/amitkhotele/,"Project 1 :- Bulk Mailer
+Technologies Used: Python, Gmail API, OAuth
+Description: Created an offline extension to send bulk emails using CSV data. Implemented dynamic email personalization, attachment handling, and secure credential storage with Chrome Storage API.
+
+Project 2 :- YouTube Video Data Scraper & Analyzer
+Technologies Used: Python, Selenium, Pandas, Excel
+Description: Automated scraping of video titles, views, and durations etc from YouTube channels.
+Processed and categorized durations (Mini, Long, Very Long) for content insights.
+Exported structured data to Excel for further analysis and visualization.
+
+Project 3 :- QuickMark – QR Code Library Attendance System
+Technologies used: Python (Pandas, Matplotlib, Seaborn)
+Description: Developed a smart QR-based system to log student attendance and eliminate manual check-ins.
+Analyzed and visualized attendance trends across days, weeks, and months to identify peak library usage.
+Exported structured reports (CSV/Excel), enabling admin to make data-driven decisions for resource planning.",https://drive.google.com/u/0/open?usp=forms_web&id=1MGVP5-FAbYEOCSyN3vEmqEbm_kFfP9LF,"Python for Data Science, Intro to Gen AI ,AI-ML Virtual Internship"
